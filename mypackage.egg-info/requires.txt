@@ -1,0 +1,6 @@
+chemparse
+numpy
+rdkit
+statsmodels
+pubchempy
+pandas
