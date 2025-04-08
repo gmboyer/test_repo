@@ -1,0 +1,1 @@
+from .my_script import say_hello
